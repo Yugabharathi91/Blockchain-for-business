@@ -4,7 +4,7 @@
 ## AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
-## PROCEDURE
+## PROCEDURE:
 
 ```
 1.Go to https //geth.ethereum.org/ and download the software for windows. While installing select
